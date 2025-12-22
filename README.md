@@ -1,0 +1,1 @@
+my [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) config
