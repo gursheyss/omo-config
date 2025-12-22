@@ -1,5 +1,4 @@
 {
-  "google_auth": false,
   "agents": {
     "frontend-ui-ux-engineer": { "model": "opencode/gemini-3-pro" },
     "document-writer": { "model": "opencode/gemini-3-flash" },
