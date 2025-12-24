@@ -1,7 +1,8 @@
 {
   "plugin": [
     "oh-my-opencode",
-    "opencode-openai-codex-auth"
+    "opencode-openai-codex-auth",
+    "opencode-zellij-namer"
   ],
   "$schema": "https://opencode.ai/config.json"
 }
